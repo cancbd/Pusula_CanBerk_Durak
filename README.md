@@ -1,4 +1,6 @@
 # Pusula_CanBerk_Durak
+Can Berk Durak
+canberk.cbd@gmail.com
 # Drug Side Effect Analysis
 
 ## Overview
@@ -21,9 +23,13 @@ To run the project, you need the following libraries
 - `seaborn`
 - `matplotlib`
 
-You can install all the dependencies by running the following command:
+Clone the reprository
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/cancbd/Pusula_CanBerk_Durak.git
+```
+
+
+
 
 
